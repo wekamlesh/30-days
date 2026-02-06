@@ -139,15 +139,6 @@ systemctl list-units --type=service --state=running
 ss -tulnp
 ```
 
-📌 **Why DevOps cares**
-
-* You must identify:
-
-  * What’s consuming CPU?
-  * What’s listening on ports?
-  * What shouldn’t be running?
-
-🧠 Say this confidently:
 
 > “I check running processes, active services, and listening ports to understand system state.”
 
